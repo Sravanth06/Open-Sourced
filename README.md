@@ -77,12 +77,22 @@ Listed by mistake? Open an issue and we'll review it promptly.
 
 ---
 
+## 📬 Contact
+
+Questions, corrections, takedown-related queries, or just want to say hi? Reach out for any purpose:
+
+**✉️ [sravanthkumar2006@gmail.com](mailto:sravanthkumar2006@gmail.com)**
+
+For anything about a specific entry, opening an issue on this repo is usually the fastest route.
+
+---
+
 ## ⚖️ A note on legality
 
 Nothing here is legal advice. Rightsholders can consult a qualified IP attorney about how to proceed with any listed entry. Visiting third-party sites is done at your own discretion and risk.
 
 <div align="center">
 
-**Made by people who like seeing creators get credit for their work.** 💙
+**Made by a man who like seeing creators get credit for their work.** 💙
 
 </div>
